@@ -7,6 +7,8 @@ Bibliotecas utilizadas:
  - Phosphor-icons (Icones)
  - Tailwind CSS (Estilização)
 
+De modo geral, as aulas 01 e 02 são focadas no desenvolvimento do Front-End.
+
 Aula 01: 
  - Apresentação do Projeto 
  - Ambiente de Desenvolvimento 
@@ -16,6 +18,18 @@ Aula 01:
  - Componente Widget 
  - Conceitos de Acessibilidade 
  - Utilizando PopOver 
+
+Aula 02: 
+ - Estilos Globais (cor de fundo) 
+ - Estrutura do WidgetForm (Header, Footer, CloseButton) 
+ - Escolha do tipo de feedback 
+ - Separando componente de passos 
+ - Comunicação de componentes 
+ - Conteúdo do Feedback 
+ - Funcionalidade de Screenshot 
+ - Componente de Loading 
+ - Envio de feedback 
+ - Sucesso do feedback 
 
 Professores: 
  - Diego Fernandes 
