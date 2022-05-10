@@ -31,6 +31,36 @@ Aula 02:
  - Envio de feedback 
  - Sucesso do feedback 
 
+Aula 03: 
+ - Fluxo da Aplicação 
+ - Setup da Estrutura (Typescript, ts-node-dev) 
+ - Configurando o Express
+ - Configurando o Prisma 
+ - Rota de feedback 
+ - Envio de e-mail 
+ - Principios SOLID 
+ - Aplicando SOLID na Aplicação 
+ - Configurando o JEST 
+ - Testes unitários na aplicação 
+
+Aula 04: 
+ - Conhecendo React Native e Expo 
+ - Criando o Projeto 
+ - Estrutura das Pastas e Arquivos 
+ - Snippets para criação de componentes 
+ - Fontes Personalizadas 
+ - Widget Component 
+ - Botão Flutuante 
+ - Utilizando Ícones 
+ - Gestos com BottomSheet 
+ - Copyright Component 
+ - Option Component 
+ - Form Component 
+ - Button Component 
+ - ScreenshotButton Component 
+ - Sucess Component 
+ - Integrando com o Backend (axios)
+
 Professores: 
  - Diego Fernandes 
  - Rodrigo Gonçalves 
